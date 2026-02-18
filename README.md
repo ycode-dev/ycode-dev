@@ -43,27 +43,6 @@ YCode / Full-Stack Engineer / Builder
   <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-## 🚀 Fun Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/lyq-lin/ycode-cli">
-        <img src="https://img.shields.io/badge/PROJECT-YCode.CLI-00F5D4?style=for-the-badge&logo=gnubash&logoColor=111111" /><br>
-        <sub><b>AI Agent CLI Playground</b></sub><br>
-        <code>.NET</code> · <code>CLI</code> · <code>Automation</code>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/lyq-lin/YCode.Designer.Fluxo">
-        <img src="https://img.shields.io/badge/PROJECT-Fluxo-7C3AED?style=for-the-badge&logo=windows-terminal&logoColor=white" /><br>
-        <sub><b>Visual Workflow & Node Editor</b></sub><br>
-        <code>WPF</code> · <code>UI/UX</code> · <code>Designer</code>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 🧪 Build Philosophy
 
 - Think like an engineer, craft like an artist.
