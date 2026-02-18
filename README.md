@@ -2,12 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=680&height=45&lines=Hi+there%2C+I'm+YCode+%F0%9F%91%8B;Coding+is+my+favorite+debug+mode;Build+bold%2C+ship+fast%2C+stay+curious" alt="Typing Animation" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyq-lin&label=ACCESS%20LOG&style=flat-square&color=00F5D4" alt="Views" />
-  <img src="https://img.shields.io/badge/PROFILE-MODE%3A%20GEEK-111111?style=flat-square&logo=matrix&logoColor=00F5D4" alt="Geek Mode" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5D4?style=flat-square&logo=github&logoColor=111111" alt="Status" />
-</p>
-
 </div>
 
 ```bash
