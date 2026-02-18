@@ -74,7 +74,7 @@ YCode / Full-Stack Engineer / Builder
 
 <br>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lyq-lin&theme=react-dark&bg_color=111111&color=00F5D4&line=00F5D4&point=00F5D4" alt="Activity Graph" width="100%" />
 
 <br>
 
