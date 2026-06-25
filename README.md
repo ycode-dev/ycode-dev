@@ -27,22 +27,8 @@ Share
 Know why before code.
 ```
 
-## Current Focus
-
-Software is being reshaped by AI.
-
-I'm exploring how AI-native applications are designed, built, and used.
-
-Current areas of interest:
-
-* AI Native Applications
-* Agent Systems
-* Human-AI Collaboration
-* Desktop AI
-
 ## What You'll Find Here
 
-* Open-source projects
 * Product prototypes
 * Technical experiments
 * Learning notes
