@@ -1,29 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=780&height=48&lines=YCode+%E2%80%94+Know+Why+You+Code;A+culture+for+builders+who+ask+better+questions;From+curiosity+to+creation%2C+with+Owen" alt="YCode Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=780&height=48&lines=YCode+%E2%80%94+Know+why+before+code;Build+things+with+a+reason;Started+by+Owen%2C+kept+alive+by+builders" alt="YCode Typing Animation" />
 
 </div>
 
 ```bash
 > whoami
-YCode / A builder culture / Founded by Owen
+YCode / 由 Owen 发起的创造文化 / Code with reasons
 
 > cat manifesto.txt
-"Before writing the next line, ask why it deserves to exist."
+"先别急着写代码。先问：这行代码要替谁解决什么？"
 
 > ./run --mode=why-first
-[OK] Questioning the problem before polishing the answer...
-[OK] Turning curiosity into shared tools and stories...
-[OK] Building with clarity, courage, and responsibility...
+[OK] 拆掉“为了技术而技术”的滤镜...
+[OK] 把一个真实问题做成能跑、能用、能交付的东西...
+[OK] 允许粗糙的第一版，但不允许空心的炫技...
 ```
 
-## Y? — Why Code
+## About YCode
 
-YCode is more than a personal label or a technical signature. It is an open attitude toward creation: **understand why we code before deciding how to code**.
+YCode 不是一句漂亮的自我介绍，也不是把技术栈堆满的名片。它更像一个由 **Owen** 发起的小型文化：写代码之前，先把动机讲清楚。
 
-The hand-drawn **Y?** carries our first question. It is rough, direct, and human because meaningful software rarely begins with perfection. It begins with doubt, observation, empathy, and the courage to turn a question into something useful.
+我们关心的不是“用了什么新东西”，而是“为什么要做这件事”。一个功能、一个工具、一个项目，最好都能回答三个问题：它在解决谁的麻烦？它比原来的方式好在哪里？它值得继续维护吗？
 
-Led by **Owen**, YCode speaks to engineers, designers, founders, learners, and anyone who wants technology to carry intent instead of noise. We believe code is not only a tool for shipping products; it is also a language for clarifying thought, connecting people, and leaving better choices behind.
+那张手写的 **Y?** 更像门口的招牌和形象 IP：粗粝、直接、有点不服管。它不需要被解释成一套复杂符号学，只负责提醒大家——别太端着，先把问题说清楚，再把东西做出来。
+
+这里欢迎工程师、设计师、产品人、学生、独立创作者，也欢迎任何看见问题就想动手的人。YCode 想保留一种朴素的兴奋感：把含糊的想法拆开，把别扭的流程抹平，把“也许可以”做成“真的能用”。
+
+## 🔥 What We Keep Doing
+
+- 发现一个别扭的流程，就写一个小工具把它抹平。
+- 遇到一个讲不清的问题，就画图、拆词、写 demo，把它讲清楚。
+- 看到一个值得长期做的方向，就先做出能被反馈的第一版。
 
 ## ⚡ Tech Stack Matrix
 
@@ -45,14 +53,15 @@ Led by **Owen**, YCode speaks to engineers, designers, founders, learners, and a
   <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-## 🧭 Culture Manifesto
+## 🧭 YCode Manifesto
 
-- **Why first.** Every project should answer a real need, not just display a new skill.
-- **Build for people.** Good engineering makes complexity feel lighter for someone else.
-- **Stay unfinished.** The best builders keep learning, questioning, and refining their craft.
-- **Ship with care.** Speed matters, but responsibility decides whether speed is worth it.
+- **先问为什么。** 没有真实理由的代码，只是在制造新的噪音。
+- **做给人用。** 如果别人用起来更轻松，技术才算完成了一半。
+- **保持手感。** 先跑起来，再打磨；先说人话，再谈架构。
+- **不装深刻。** 能解决问题就直接解决，不能解决就诚实记录。
+- **一起变强。** YCode 不是 Owen 一个人的标签，而是一群人共享的做事方式。
 
-> **"Code is the artifact; the reason behind it is the culture."**
+> **“Code is not the point. The reason is.”**
 
 <br>
 
